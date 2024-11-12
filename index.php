@@ -14,7 +14,7 @@
             font-family: 'Faculty Glyphic', Arial, sans-serif;
         }
         body {
-            background-image: url("bgimage.avif");
+            background-image: url("https://image.slidesdocs.com/responsive-images/background/code-technology-dark-data-business-blue-powerpoint-background_a2b80d32ab__960_540.jpg");
             background-size: auto;
             /* background: linear-gradient(135deg, #f0f4f8, #d9e4f5); */
             color: #333;
@@ -35,8 +35,7 @@
             text-align: center;
             border-radius: 10px;
             box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3);
-            width: 100%;
-            max-width: 600px;
+            width: 500px;
             animation: slideIn 1s ease-out;
         }
         h1 {
@@ -106,7 +105,7 @@
     <div>
         <header>
             <h3>Open Enrollment!!</h3>
-            <h1>SMAK Petra 1 Surabaya</h1>
+            <h1>Coding Course</h1>
         </header>
     
         <section>
